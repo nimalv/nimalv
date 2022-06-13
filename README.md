@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimalv
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning bigdata concepts like hadoop and spak
+- 🌱 I’m currently learning bigdata concepts like hadoop and spark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
